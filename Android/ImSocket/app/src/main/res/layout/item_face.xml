@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="12dp"
+    android:gravity="center">
+
+    <com.companybt.imsocket.view.CircleImageView
+        android:id="@+id/face"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:scaleType="centerCrop"
+        tools:ignore="MissingConstraints" />
+
+    <com.companybt.imsocket.view.CircleImageView
+        android:id="@+id/select"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@mipmap/select"
+        tools:ignore="MissingConstraints" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

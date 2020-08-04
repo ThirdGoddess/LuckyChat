@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="files_root"
+        path="Android/data/cn.soujianzhu/" />
+    <external-path
+        name="external_storage_root"
+        path="." />
+
+    <external-path
+        name="hm_DCIM"
+        path="DCIM/camerademo" />
+</paths>
