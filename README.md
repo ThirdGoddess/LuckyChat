@@ -1,2 +1,0 @@
-# LuckyChat
-LuckyChat demo.
